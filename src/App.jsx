@@ -266,7 +266,7 @@ function App() {
               {
                 icon: Sparkles,
                 title: "Event Cleaning",
-                description: "Pre and post-event cleaning services with sustainable practices to ensure your venue is spotless while minimizing environmental impact.",
+                description: "Pre and post-event cleaning services with sustainable practices to ensure your venue is spotless while minimising environmental impact.",
                 gradient: "from-primary/5 to-blue-50/30",
                 delay: "delay-400",
                 features: ["Biodegradable supplies", "Recycling programs", "Energy efficient"]
